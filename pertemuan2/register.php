@@ -106,7 +106,7 @@
 </head>
 <body>  
     <div class="container">
-        <h3>Log-In</h3>
+        <h3>Register</h3>
         <div class="main">
             <ul>
                 <li>
